@@ -1,6 +1,6 @@
 # SwapPy
 Auto Swap streams from multiple camera inputs.
-Inspired from Bleed AI's Youtube Video: [Creating an AI Director for Automating a Multi-Camera Setup](https://www.youtube.com/watch?v=dfkgV7ZQA9g) 
+Inspired from Bleed AI's Youtube Video: [Creating an AI Director for Automating a Multi-Camera Setup](https://www.youtube.com/watch?v=dfkgV7ZQA9g). 
 Do consider to check for his latest course on Buliding Cutting Edge Computer Vision Applications [https://bit.ly/3dNwXvV](https://bit.ly/3dNwXvV)
 
 Requirements:
