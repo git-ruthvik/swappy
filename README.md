@@ -15,6 +15,7 @@ Improvements:
 - [ ] GUI for complete Application.
 - [ ] Option for selecting number of Camera Inputs
 - [ ] Selecting Primary camera
+- [ ] Stream to OBS Studio or other 3rd party services(Zoom, Microsoft Teams, Google Meet, etc.)
 --- 
 ## NOTE
 This code currently supports 3 cameras and will fail when run if number of cameras is less than 3 or greater.
