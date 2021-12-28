@@ -15,9 +15,11 @@ Improvements:
 - [ ] GUI for complete Application.
 - [ ] Option for selecting number of Camera Inputs
 - [ ] Selecting Primary camera
+
+Below points moved to a different repo that will be posted soon
 - [ ] Stream to OBS Studio or other 3rd party services(Zoom, Microsoft Teams, Google Meet, etc.)
-- [ ] Adding Pinch-To-Zoom on face gesture control.
-- [ ] Stream Enhancement with Pre-Processing brightness and contrast to make potato webcams on laptops usable.
+- [ ] Adding Pinch-To-Zoom on face, gesture control.
+- [ ] Stream Enhancement with Pre-Processing brightness and contrast to make potato webcams on laptops, usable.
 --- 
 ## NOTE
 This code currently supports 3 cameras and will fail when run if number of cameras is less than 3 or greater.
